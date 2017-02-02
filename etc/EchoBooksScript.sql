@@ -115,3 +115,5 @@ delete from books where title = 'All the Deadly Beloved'
 
 delete from posts;
 delete from threads;
+
+delete from books;
