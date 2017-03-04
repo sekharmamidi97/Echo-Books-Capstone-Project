@@ -33,6 +33,10 @@ This project was built with:
 - Lori Somerville
 - Sekhar Mamidi
 
+## **Contributors**
+If anyone wants to access and/or contribute to this project, they can access it from my github account at:
+<https://github.com/sekharmamidi97>
+
 ## **Acknowledgments**
 - Josh Tucholski
 - Craig Castelaz
