@@ -10,6 +10,7 @@ including the title, author, setting, and character, view newly added books and 
 - Search By Author
 - Registration Page
 - Login Page
+- Book Details Page
 
 ## **Built With**
 This project was built with:
