@@ -13,6 +13,10 @@ including the title, author, setting, and character, view newly added books and 
 This project was built with:
 - Microsoft Visual Studio 2015
 - Microsoft SQL Server 2014
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
 ## **Team**
 - Jessica Williams
