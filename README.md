@@ -14,4 +14,12 @@ This project was built with:
 - Microsoft Visual Studio 2015
 - Microsoft SQL Server 2014
 
-   
+## **Team**
+- Jessica Williams
+- Gina Stuk
+- Lori Somerville
+- Sekhar Mamidi
+
+## **Acknowledgments**
+- Josh Tucholski
+- Craig Castelaz
