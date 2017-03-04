@@ -8,7 +8,9 @@ including the title, author, setting, and character, view newly added books and 
 ## **Site Pages (Screen Capture)**
 - Search By Title
 - Search By Author
-- Registration Page
+- New User Page
+![echobooks-new user page](https://cloud.githubusercontent.com/assets/22801040/23582253/76d88c00-00f4-11e7-8171-9de98fc02365.gif)
+
 - Login Page
 ![echobooks-login page](https://cloud.githubusercontent.com/assets/22801040/23582241/09bdf10a-00f4-11e7-9331-4bc6d9c10e0d.gif)
 
