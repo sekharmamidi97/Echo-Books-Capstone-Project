@@ -6,8 +6,9 @@ based on whether he/she is a registered user of the site.  A casual visitor to t
 including the title, author, setting, and character, view newly added books and authors.  If a user becomes a registered member of the site, they will have access to additional features. 
 
 ## **Site Pages (Screen Capture)**
-- Search By Title
 - Search By Author
+![echobooks-search by author](https://cloud.githubusercontent.com/assets/22801040/23582282/35e09af2-00f5-11e7-9231-32d44c949c61.gif)
+
 - New User Page
 ![echobooks-new user page](https://cloud.githubusercontent.com/assets/22801040/23582253/76d88c00-00f4-11e7-8171-9de98fc02365.gif)
 
