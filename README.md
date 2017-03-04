@@ -11,6 +11,7 @@ including the title, author, setting, and character, view newly added books and 
 - Registration Page
 - Login Page
 - Book Details Page
+![echobooks-book detail](https://cloud.githubusercontent.com/assets/22801040/23582219/9cb1cc62-00f3-11e7-9df6-88cf29a6acb0.gif)
 
 ## **Built With**
 This project was built with:
