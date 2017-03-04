@@ -10,6 +10,8 @@ including the title, author, setting, and character, view newly added books and 
 - Search By Author
 - Registration Page
 - Login Page
+![echobooks-login page](https://cloud.githubusercontent.com/assets/22801040/23582241/09bdf10a-00f4-11e7-9331-4bc6d9c10e0d.gif)
+
 - Book Details Page
 ![echobooks-book detail](https://cloud.githubusercontent.com/assets/22801040/23582219/9cb1cc62-00f3-11e7-9df6-88cf29a6acb0.gif)
 
