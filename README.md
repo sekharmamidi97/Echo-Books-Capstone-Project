@@ -6,6 +6,8 @@ based on whether he/she is a registered user of the site.  A casual visitor to t
 including the title, author, setting, and character, view newly added books and authors.  If a user becomes a registered member of the site, they will have access to additional features. 
 
 ## **Site Pages (Screen Capture)**
+- Search By Title
+- Search By Author
 - Registration Page
 - Login Page
 
